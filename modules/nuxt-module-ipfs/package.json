@@ -1,0 +1,38 @@
+{
+  "name": "@agency-undone/nuxt-module-ipfs",
+  "version": "1.0.2-alpha.5",
+  "description": "A Nuxt module that enables nuxt routing for both the intended path and IPFS gateway URLs, which include a CID (hash)",
+  "keywords": [
+    "Nuxt",
+    "NuxtJS",
+    "IPFS",
+    "Interplanetary File System"
+  ],
+  "homepage": "https://github.com/agency-undone/nuxt-module-ipfs#readme",
+  "bugs": "https://github.com/agency-undone/nuxt-module-ipfs/issues",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Agency Undone",
+    "email": "hello@agencyundone.com"
+  },
+  "contributors": [
+    {
+      "name": "Orun Bhuiyan",
+      "url": "https://github.com/orvn"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agency-undone/nuxt-module-ipfs"
+  },
+  "dependencies": {
+    "klaw": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
