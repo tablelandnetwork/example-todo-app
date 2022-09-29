@@ -34,7 +34,7 @@
     "babel-jest": "^29.1.0",
     "flush-promises": "^1.0.2",
     "jest": "^27.0.5",
-    "postcss": "^8.3.5",
+    "postcss": "^8.4.16",
     "vue-jest": "^3.0.7"
   }
 }
