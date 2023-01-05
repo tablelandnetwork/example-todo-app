@@ -20,7 +20,7 @@
     "underscore": "^1.13.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-typescript": "^7.16.0",
     "@nuxt/test-utils": "^0.2.2",
